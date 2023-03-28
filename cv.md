@@ -28,7 +28,7 @@ Today I realize that the growth opportunities and perspectives in my profession 
 
 ### **Courses**
 * HTML Academy New year challenge
-* Подготовительный курс «JavaScript/Front-end. Stage 0»
+* Подготовительный курс «JavaScript/Front-end. Stage 0» (JS/FE 2022Q2)
 
 ### **Projects**
 * CV
